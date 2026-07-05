@@ -47,16 +47,16 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" align="top" /> &nbsp; **GitHub Analytics**
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=purnabrata2005&theme=radical" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=purnabrata2005&theme=radical" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderPurna&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderPurna&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=purnabrata2005&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=CoderPurna&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purnabrata2005&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderPurna&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 
